@@ -1,0 +1,12 @@
+123@@null##123@@null##41@@null##@@null##41@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##
+123@@null##661@@null##666@@null##@@null##@@null##@@null##269.0@@=average(23,123,B2)##3@@=counta(A1:A3##1030.0@@=sum(A1:B2##@@null##@@null##@@null##@@null##@@null##
+2@@null##3@@null##1@@null##@@null##123@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##
+@@null##@@null##@@null##@@null##123@@null##41@@null##41@@null##41@@null##@@null##@@null##@@null##@@null##@@null##@@null##
+@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##123@@null##@@null##@@null##@@null##
+@@null##@@null##@@null##@@null##123@@null##@@null##@@null##@@null##@@null##123@@null##@@null##@@null##@@null##@@null##
+@@null##@@null##@@null##@@null##@@null##@@null##@@null##123@@null##@@null##@@null##@@null##@@null##@@null##@@null##
+@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##
+@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##
+@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##
+@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##
+@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##@@null##
